@@ -1,0 +1,287 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 1000px;
+
+}
+.header{
+    height: 146px;
+    width: 1000px;
+    box-shadow: 0px 1px 1px #9d9090;
+}
+.topbroder{
+    height: 5px;
+    width: 1000px;
+    background: #40AED7;
+}
+.header_top{
+    margin-top: 23px
+}
+.header_top form{
+    margin-left: 655px;
+}
+.header_top input{
+    height: 40px;
+    width: 246px;
+    border-radius: 9px;
+    border: 0px solid;
+    background: #E9E9E9;
+    font-family:Georgia
+    font-size: 15px;
+}
+.header_top button{
+    width: 70px;
+    height: 40px;
+    border: 0px solid;
+    border-radius: 7px;
+    background: #40AED7;
+    color: white;
+    font-family: Georgia;
+}
+.header_dawon{
+    display: inline-flex;
+}
+.logo img{
+    margin-left: 20px;
+}
+.menu nav{}
+.menu nav ul{
+    display: inline-flex;
+    list-style: none;
+  
+}
+.menu nav ul li{}
+.menu nav ul li a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 14px;
+    color: #ed5b5b;
+}
+.menu nav ul li a:hover{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 14px;
+    color: #ed5bd5;
+}
+.soro{
+    margin-left: 170px;
+}
+/***slider***/
+.slider{
+    width: 1000px;
+    margin-top: 70px;
+    display: inline-flex;
+}
+.banar_image{
+    width: 750px;
+    height: 400px;
+    margin-left: 20px;
+}
+.banar_image img{
+    width: 750px;
+    height: 400px;
+}
+.banar_text{
+
+    text-align: center;
+    font-family: Georgia;
+}
+.banar_text h1{
+    font-size: 36px
+}
+.banar_text p{
+    font-size: 17px
+    font-family: Georgia;
+}
+.banar_text button{
+    font-size: 22px;
+    background: #40AED7;
+    border: 0px solid;
+    border-radius: 5px;
+    width: 185px;
+    height: 41px;
+    color: white;
+    font-family: Georgia;
+}
+.banar_text button:hover{
+    font-size: 22px;
+    background: #2dc052;
+    border: 0px solid;
+    border-radius: 5px;
+    width: 185px;
+    height: 41px;
+    color: rgb(240, 241, 234);
+    font-family: Georgia;
+}
+.sout{
+    width: 100%;
+    text-align: center;
+    margin-top: 46px;
+}
+.spech{}
+.spech h1{
+    width: 864px;
+    font-size: 36px;
+    font-family: Georgia;
+    margin-left: 71px;
+}
+.spech p{
+    width: 577px;
+    font-family: Georgia;
+    margin-left: 207px;
+}
+.gallary_part{
+    width: 100%;
+}
+.row_One{
+    display: inline-flex;
+    width: 100%;
+}
+.product_pics{
+
+}
+.product_pics img{
+    height: 210px;
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+.viwe_button{
+    width: 100%;
+    height: 125px;
+    text-align: center;
+}
+.viwe_button button{
+    height: 50px;
+    width: 335px;
+    border: 0px none white;
+    background: #40aed7;
+    border-radius: 10px;
+    font-size: 22px;
+    color: white;
+    font-family: Georgia;
+}
+.footter{
+    width: 100%;
+    display: inline-flex;
+    background: #1B1B1B;
+    height: 268px;
+    font-family: Georgia;
+}
+.company_details{
+    font-family: Georgia;
+    width: 281px;
+    margin-left: 20px;
+    height: 100%;
+}
+.addres{
+    font-family: Georgia;
+    color: #979797;
+    height: 79px;
+    font-size: 15px;
+    width: 89px;
+}
+.contact{
+    font-family: Georgia;
+    font-size: 13px;
+    color: #979797;
+    width: 192px;
+}
+.latest_news{
+    height: 100%;
+    width: 440px;
+}
+.latest_news h3{
+    color: #A7A7A7;
+    font-size: 18px;
+}
+.latest_news_up{
+    font-family: Georgia;
+    color: #979797;
+}
+.latest_news_up h4{
+    font-family: Georgia;
+    color: #40AED7;
+    font-size: 16px;
+    margin-bottom: 2px;
+    text-transform: capitalize;
+}
+.latest_news_up p{
+    font-family: Georgia;
+    margin-top: 6px;
+}
+.stay_up{
+    font-family: Georgia;
+    width: 246px;
+}
+.stay_up h3{
+    font-family: Georgia;
+    color: #A7A7A7;
+    font-size: 18px;
+}
+.stay_up input{
+    font-family: Georgia;
+    height: 30px;
+    width: 180px;
+    background: transparent;
+    border: 2px solid #161616;
+}
+.stay_up button{
+    font-family: Georgia;
+    height: 30px;
+    color: #40AED7;
+    background: transparent;
+    border: 2px solid #161616;
+}
+.icon{
+    display: inline-flex;
+}
+.socal_icon{
+   font-size: 46px;
+}
+.company_details h3{
+    color: #A7A7A7;
+    font-size: 18px;
+}
+.socal_icon_color_one{
+    height: 46px;
+    font-size: 46px;
+    width: 46px;
+    color: #3949A9;
+}
+.socal_icon_color-two{
+    height: 46px;
+    font-size: 46px;
+    width: 46px;
+    color: #42A5F6;
+}
+.socal_icon_color-three{
+    height: 46px;
+    font-size: 46px;
+    width: 46px;
+    color: #42A5F6;
+}
+.socal_icon_color-four{
+    height: 46px;
+    font-size: 46px;
+    width: 46px;
+    color: #AD45BE;
+}
+. {}
+. {}
+.copy_right{
+    background-color: #161616;
+    height: 60px;
+    width: 1oo%;
+
+}
+.copy_right h5{
+  color: #A7A7A7;
+    margin: 0;
+    text-align: left;
+    margin-left: 20px;
+    padding-top: 20px;
+    font-family: Georgia;
+}
+
+. {}
